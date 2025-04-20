@@ -4,7 +4,7 @@
 # الشروط والأحكام
 
 **تاريخ السريان:** 6 أبريل 2025.  
-**آخر تحديث:** 6 أبريل 2025. 
+**آخر تحديث:** 20 أبريل 2025. 
 
 مرحبًا بك في **مول باسكت (MallBasket)** ("نحن"، "المنصة"، أو "الخدمة"). باستخدامك مول باسكت، فإنك توافق على الالتزام بهذه الشروط والأحكام. يُرجى قراءتها بعناية قبل استخدام خدماتنا.
 
@@ -75,11 +75,16 @@
 ## 8. حدود المسؤولية
 
 - يعمل مول باسكت كـ **وسيط** بين المشترين والبائعين، ولا يتحمّل مسؤولية مباشرة عن المحتوى، التوصيل، أو قانونية المنتجات المدرجة.
-- لا يتحمّل المنصة أي مسؤولية عن أي خسائر أو أضرار ناتجة عن سلوك المستخدمين أو مشاكل في الطلبات أو انتهاكات قانونية.
+- لا يتحمّل مول باسكت أي مسؤولية عن أي خسائر أو أضرار ناتجة عن سلوك المستخدمين أو مشاكل في الطلبات أو انتهاكات قانونية.
 
 ---
+## 9. التحديثات على الشروط والأحكام
+- نحتفظ بحقنا في تعديل هذه الشروط والأحكام في أي وقت.
+- في حال حدوث تحديثات جوهرية أو تغييرات كبيرة على الشروط، سيتم إشعار جميع المستخدمين المسجلين عبر البريد الإلكتروني أو إشعار داخل التطبيق.
+- استمرارك في استخدام منصة مول باسكت بعد التحديث يُعتبر موافقة ضمنية على الشروط المحدّثة.
+---
 
-## 9. تواصل معنا
+## 10. تواصل معنا
 
 للدعم، الاستفسارات، أو الإبلاغ عن انتهاك لهذه الشروط، يرجى التواصل معنا عبر:
 
@@ -96,7 +101,7 @@
 # Terms and Conditions
 
 **Effective Date:** April 6, 2025.
-**Last Updated:** April 6, 2025.
+**Last Updated:** April 20, 2025.
 
 Welcome to **MallBasket** ("we", "our", or "the Platform"). By accessing or using MallBasket, you agree to be bound by these Terms and Conditions. Please read them carefully before using our services.
 
@@ -170,8 +175,14 @@ MallBasket is an online marketplace that enables store owners to create virtual 
 - The platform will not be held liable for any losses or damages resulting from user conduct, order issues, or legal violations.
 
 ---
+## 9. Updates to Terms and Conditions
+- We reserve the right to modify these Terms and Conditions at any time.
 
-## 9. Contact Us
+- If major updates or significant changes are made, we will notify all registered users via email or in-app notification.
+
+- Continued use of MallBasket after updates implies acceptance of the revised Terms and Conditions.
+---
+## 10. Contact Us
 
 For support, inquiries, or to report a violation of these Terms, contact:
 
